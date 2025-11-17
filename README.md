@@ -1,4 +1,4 @@
-# "Big Data Collection and Mining" (Capstone Design) Course Labs.
+# Big Data Collection and Mining (Capstone Design) Course Labs.
 This collection contains practical Python code exercises focusing on the full Big Data lifecycle: acquisition (Web Crawling/APIs), processing (NumPy, Pandas), analysis, and visualization (Matplotlib). The curriculum follows the concepts from the textbook, '모두의 데이터 분석 with 파이썬'. Projects utilize public domain datasets (e.g., weather, public transit, demographic data) to develop real-world Capstone Design skills in data-driven problem-solving.
 
 
