@@ -4,7 +4,11 @@ import matplotlib.pyplot as plt
 
 plt.rc('font', family='Malgun Gothic')
 
-df = pd.read_csv('age.csv', encoding='cp949', index_col=0)
+try:
+    df = pd.read_csv('age.csv', encoding='cp949', index_col=0)
+except UnicodeDecodeError:
+    df = pd.read_csv('age.csv', encoding='utf-8', index_col=0)
+
 df = df.div(df['총인구수'], axis=0)
 del df['총인구수'], df['연령구간인구수'] # '총인구수'와 '연령구간인구수' 컬럼을 삭제
 
