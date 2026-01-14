@@ -53,10 +53,10 @@ This collection contains practical Python code exercises focusing on the full Bi
 ---
 
 ## 📊 Visualization Examples
-<img width="450" height="320" alt="image (13)" src="https://github.com/user-attachments/assets/84ca9170-eae7-4772-819e-f12ed31aabf6" />
-<img width="450" height="320" alt="image (14)" src="https://github.com/user-attachments/assets/1863abd2-acad-40d3-a806-6870f128d11a" />
-<img width="450" height="320" alt="image (15)" src="https://github.com/user-attachments/assets/fe57a103-c843-4128-99b0-193d803c6ef5" />
-<img width="450" height="320" alt="동묘앞 " src="https://github.com/user-attachments/assets/748ffdb4-bd32-48ee-beee-bfe237dd80e3" />
+<img width="380" height="300" alt="image (13)" src="https://github.com/user-attachments/assets/84ca9170-eae7-4772-819e-f12ed31aabf6" />
+<img width="380" height="300" alt="image (14)" src="https://github.com/user-attachments/assets/1863abd2-acad-40d3-a806-6870f128d11a" />
+<img width="380" height="300" alt="image (15)" src="https://github.com/user-attachments/assets/fe57a103-c843-4128-99b0-193d803c6ef5" />
+<img width="380" height="300" alt="동묘앞 " src="https://github.com/user-attachments/assets/748ffdb4-bd32-48ee-beee-bfe237dd80e3" />
 
 
 ---
